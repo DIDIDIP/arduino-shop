@@ -1,0 +1,191 @@
+[
+  {
+    "file": "/images/products/arduino-uno-r3.jpg",
+    "title": "Arduino Uno - R3.jpg",
+    "author": "SparkFun Electronics from Boulder, USA",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_Uno_-_R3.jpg"
+  },
+  {
+    "file": "/images/products/arduino-uno-r4-wifi.jpg",
+    "title": "Arduino UNO R4 WiFi.jpg",
+    "author": "Lomrjyo",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_UNO_R4_WiFi.jpg"
+  },
+  {
+    "file": "/images/products/arduino-nano-every.jpg",
+    "title": "Arduino Nano Every.png",
+    "author": "Enirstad",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_Nano_Every.png"
+  },
+  {
+    "file": "/images/products/arduino-mega-2560.jpg",
+    "title": "Arduino MEGA 2560 R3, front side.jpg",
+    "author": "Dsimic",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_MEGA_2560_R3,_front_side.jpg"
+  },
+  {
+    "file": "/images/products/esp32-devkitc.jpg",
+    "title": "ESP32 Espressif ESP-WROOM-32 Dev Board (2).jpg",
+    "author": "Ubahnverleih",
+    "license": "CC0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ESP32_Espressif_ESP-WROOM-32_Dev_Board_(2).jpg"
+  },
+  {
+    "file": "/images/products/hc-sr04.jpg",
+    "title": "HC SR04 Ultrasonic Module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_Module.jpg"
+  },
+  {
+    "file": "/images/products/dht11.jpg",
+    "title": "Dht11.jpg",
+    "author": "Edwiyanto",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dht11.jpg"
+  },
+  {
+    "file": "/images/products/hc-sr501.jpg",
+    "title": "PIR motion sensor for Arduino oblique view.jpg",
+    "author": "Sjilla",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PIR_motion_sensor_for_Arduino_oblique_view.jpg"
+  },
+  {
+    "file": "/images/products/lcd-1602-i2c.jpg",
+    "title": "16x2 Character LCD Display.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:16x2_Character_LCD_Display.jpg"
+  },
+  {
+    "file": "/images/products/oled-096.jpg",
+    "title": "MicroSD card connected to Arduino nano with OLED display.jpg",
+    "author": "Turbospok",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:MicroSD_card_connected_to_Arduino_nano_with_OLED_display.jpg"
+  },
+  {
+    "file": "/images/products/relay-1ch.jpg",
+    "title": "SRD-05VDC-SL-C 5V one-channel relay module.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SRD-05VDC-SL-C_5V_one-channel_relay_module.jpg"
+  },
+  {
+    "file": "/images/products/hc-06.jpg",
+    "title": "Hc06.jpg",
+    "author": "Cristobal aeorum",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hc06.jpg"
+  },
+  {
+    "file": "/images/products/sg90.jpg",
+    "title": "Tower Pro SG90 micro servo motor.jpg",
+    "author": "Suyash Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tower_Pro_SG90_micro_servo_motor.jpg"
+  },
+  {
+    "file": "/images/products/stepper-28byj48.jpg",
+    "title": "28BYJ-48 unipolar stepper motor with ULN2003 driver.jpg",
+    "author": "Kushagra Keshari",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg"
+  },
+  {
+    "file": "/images/products/breadboard-830.jpg",
+    "title": "Breadboard (28045530760).jpg",
+    "author": "The Marmot",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Breadboard_(28045530760).jpg"
+  },
+  {
+    "file": "/images/products/jumper-wire-mm.jpg",
+    "title": "A few Jumper Wires.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_few_Jumper_Wires.jpg"
+  },
+  {
+    "file": "/images/products/led-5mm-kit.jpg",
+    "title": "LEDs.jpg",
+    "author": "Afrank99",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:LEDs.jpg"
+  },
+  {
+    "file": "/images/products/resistor-kit.jpg",
+    "title": "Electronic-Axial-Lead-Resistors-Array.jpg",
+    "author": "Evan-Amos",
+    "license": "Public domain",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg"
+  },
+  {
+    "file": "/images/products/starter-kit.jpg",
+    "title": "ARDX - Arduino Experimentation Kit (Inside the box).jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ARDX_-_Arduino_Experimentation_Kit_(Inside_the_box).jpg"
+  },
+  {
+    "file": "/images/hero.jpg",
+    "title": "Arduino & breadboard, mounted.jpg",
+    "author": "TreyDanger",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_%26_breadboard,_mounted.jpg"
+  },
+  {
+    "file": "/images/cat-boards.jpg",
+    "title": "Arduino boards.jpg",
+    "author": "SimonWaldherr",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arduino_boards.jpg"
+  },
+  {
+    "file": "/images/cat-sensors.jpg",
+    "title": "HC SR04 Ultrasonic sensor 1480322 3 4 HDR Enhancer.jpg",
+    "author": "Nevit Dilmen",
+    "license": "CC BY-SA 3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:HC_SR04_Ultrasonic_sensor_1480322_3_4_HDR_Enhancer.jpg"
+  },
+  {
+    "file": "/images/cat-modules.jpg",
+    "title": "ULN2003 unioplar stepper motor driver module.jpg",
+    "author": "Kushagra Keshari",
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ULN2003_unioplar_stepper_motor_driver_module.jpg"
+  },
+  {
+    "file": "/images/cat-motors.jpg",
+    "title": "Micro servo.jpg",
+    "author": "oomlout",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Micro_servo.jpg"
+  },
+  {
+    "file": "/images/cat-parts.jpg",
+    "title": "A healthy assortment of components (437341128).jpg",
+    "author": "Windell Oskay from Sunnyvale, CA, USA",
+    "license": "CC BY 2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:A_healthy_assortment_of_components_(437341128).jpg"
+  },
+  {
+    "file": "/images/products/soil-moisture.jpg",
+    "title": "Soil Moisture Sensor Detection Module with Relay",
+    "author": "tvluke_",
+    "license": "CC0 1.0",
+    "source_url": "https://www.flickr.com/photos/169136682@N02/46692984385"
+  },
+  {
+    "file": "/images/products/l298n.jpg",
+    "title": "L298N Motor Controller",
+    "author": "lespounder",
+    "license": "CC BY-SA 2.0",
+    "source_url": "https://www.flickr.com/photos/45703688@N07/20061691276"
+  }
+]
